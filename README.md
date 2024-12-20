@@ -49,5 +49,3 @@ I'm a passionate software developer with a keen interest in open-source projects
 Feel free to reach out if you want to collaborate on a project or just want to say hi!
 
 ---
-
-*This README was generated with ❤️ by [GitHub Copilot](https://github.com/features/copilot)*
