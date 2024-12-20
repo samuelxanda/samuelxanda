@@ -12,16 +12,6 @@ I'm a passionate software developer with a keen interest in open-source projects
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
 - **Other Tools:** Git, VS Code, Webpack, Babel
 
-## 🚀 Projects
-
-### [Project Name](https://github.com/samuelxanda/project-name)
-- **Description:** A brief description of what the project does and its main features.
-- **Technologies:** List of technologies used in the project.
-
-### [Another Project](https://github.com/samuelxanda/another-project)
-- **Description:** A brief description of what the project does and its main features.
-- **Technologies:** List of technologies used in the project.
-
 ## 📈 GitHub Stats
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelxanda&show_icons=true&theme=radical)
