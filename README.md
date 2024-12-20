@@ -1,6 +1,7 @@
 # Hi there, I'm Samuel 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samuelxanda&color=blue)
+---
 
 I'm a passionate software developer with a keen interest in open-source projects and innovative technologies. I love exploring new tools and techniques to solve challenging problems and improve my coding skills.
 
