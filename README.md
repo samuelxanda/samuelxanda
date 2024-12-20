@@ -22,14 +22,6 @@ I'm a passionate software developer with a keen interest in open-source projects
 - Machine Learning with Python
 - Cloud computing with AWS
 
-## 🔄 Current Status
-
-- **Working on:** Improving my knowledge of DevOps practices and tools.
-- **Learning:** Building scalable web applications with microservices architecture.
-- **Collaborating on:** Open-source projects related to web development and data science.
-- **Looking for help with:** Contributions to my [open-source projects](https://github.com/samuelxanda).
-- **Available for:** Freelance work and collaborations on interesting projects.
-
 ## 📫 Contact Me
 
 - **Email:** [samuelxanda@example.com](mailto:samuelxanda@example.com)
