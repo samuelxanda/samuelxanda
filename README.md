@@ -57,7 +57,7 @@ I'm **Samuel Xanda**, a student passionate about **UX/UI design**, **web develop
   <a href="https://github.com/SamuelXanda">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/samuel-xanda-88523a283">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#">
