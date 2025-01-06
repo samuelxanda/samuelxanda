@@ -6,9 +6,9 @@ I'm **Samuel Xanda**, a student passionate about **UX/UI design**, **web develop
 
 ## 🌟 About Me
 - 🎓 Currently a student and tech enthusiast.
-- 🛠️ Building **SawaPay**, an Embedded Finance Platform for Africa.
+- 🛠️ Building **OMS**, an Orphan Management system.
 - 🖥️ Founder of **Youth Innovators Hub**, empowering young coders.
-- 🌱 Learning: `React.js`, `Node.js`, and `UX/UI Design`.
+- 🌱 Learning: `React.js`, `Node.js`, and `ML & AI`.
 
 ---
 
