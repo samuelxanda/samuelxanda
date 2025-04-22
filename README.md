@@ -1,70 +1,92 @@
-# Hi there! 👋
+# Welcome to My GitHub Profile, I'm **Samuel Xanda** 👋
 
-I'm **Samuel Xanda**, a student passionate about **UX/UI design**, **web development**, and solving real-world challenges through code. 🚀
+### **UX/UI Designer | Web Developer | Full-Stack Enthusiast | Tech Innovator**
 
----
-
-## 🌟 About Me
-- 🎓 Currently a student and tech enthusiast.
-- 🛠️ Building **OMS**, an Orphan Management system.
-- 🖥️ Founder of **Youth Innovators Hub**, empowering young coders.
-- 🌱 Learning: `React.js`, `Node.js`, and `ML & AI`.
+I'm passionate about **designing intuitive, user-centered experiences** and building **cutting-edge web applications**. As a **tech enthusiast**, I aim to leverage my skills in **React.js**, **Node.js**, and **UX/UI design** to create solutions that matter. Let’s build something amazing!
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 About Me
 
-### 🌐 Frontend Development
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](#)
-
-### 🔧 Backend Development
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)](#)
-
-### 🛠️ Tools & Platforms
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](#)
-
-### 📱 Other Technologies
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)](#)
+- 🌍 **Location**: **Rwanda**
+- 🎓 Currently studying **Full-Stack Development** with a focus on **React.js** and **Node.js**.
+- 💼 Founder of [**Youth Innovators Hub**](https://www.linkedin.com/in/samuelxanda) — Empowering youth to innovate through technology.
+- ✨ I believe **technology** should solve real-world problems. My goal is to **bridge the gap between design and functionality**.
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelXanda&show_icons=true&theme=radical" alt="Samuel's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SamuelXanda&theme=radical" alt="GitHub Streak" height="180px"/>
-</div>
+## 💻 Tech Stack
+
+### **Frontend Development**:
+![React](https://img.shields.io/badge/React-%2320232a.svg?&style=flat&logo=react&logoColor=61DAFB) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
+
+### **Backend Development**:
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&style=flat&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white) 
+
+### **Design & Prototyping**:
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?&style=flat&logo=adobexd&logoColor=white)
+
+### **Tools & Miscellaneous**:
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 🔥 Languages I Use
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelXanda&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</div>
+## 🌟 Featured Projects
+
+I’m always working on innovative projects! Here are a few that showcase my skills:
+
+### **[SawaPay Payroll](#)**
+A **Payroll and HR Management System** designed for businesses and gig workers in Africa. The platform fully automates payroll processing and payment, with powerful features for both contractors and employees.
+
+- 🚀 **Tech Stack**: React.js, Node.js, MongoDB, Express.js
+- 💡 **Key Features**: Payroll automation, Employee/Contractor Management, Detailed Analytics
+
+### **[Youth Innovators Hub Hackathon](#)**
+A platform to engage high school students with coding and innovation. Our beginner-friendly hackathons teach young people how to solve real-world problems using technology.
+
+- 🖥️ **Tech Stack**: Node.js, React.js, Figma (for event branding)
+- 🎯 **Goal**: Empower young innovators to create solutions for the future.
+
+### **[Smart Student Card](#)**
+A **smart student card** integrating both mobile and USSD features, bridging the gap between modern and traditional technologies for all students.
+
+- 📱 **Tech Stack**: Node.js, USSD, Mobile Development
 
 ---
 
-## 📫 Let's Connect!
+## 🌱 Currently Learning
 
-<div align="center">
-  <a href="https://github.com/SamuelXanda">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-xanda-88523a283">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+I’m always growing my skill set and exploring new technologies:
+
+- 📚 Exploring **Blockchain** to build decentralized applications (DApps)
+- 🤖 Diving into **Machine Learning** to create smarter and more efficient solutions
+- ☁️ Expanding my knowledge of **Cloud Infrastructure** and **DevOps**
 
 ---
 
-_"Empowering ideas, one line of code at a time."_
+## 🤝 Let’s Connect
+
+I’d love to collaborate with other developers, designers, and tech enthusiasts. Whether it's a project, mentorship, or just a conversation, let’s connect!
+
+- **LinkedIn**: [Samuel Xanda](https://www.linkedin.com/in/samuelxanda)
+- **Twitter**: [@SamuelXanda](https://twitter.com/SamuelXanda)
+- **Email**: samuelxanda@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelxanda&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+## 💬 Get In Touch
+
+Feel free to reach out if you have an idea, need help, or just want to chat about tech. Let’s build the future, together!
