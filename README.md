@@ -9,10 +9,9 @@ I'm passionate about **designing intuitive, user-centered experiences** and buil
 ## 🚀 About Me
 
 - 🌍 **Location**: **Rwanda**
-- 🎓 Currently studying **Full-Stack Development** with a focus on **React.js** and **Node.js**.
-- 💼 Founder of [**Youth Innovators Hub**](https://www.linkedin.com/in/samuelxanda) — Empowering youth to innovate through technology.
-- ✨ I believe **technology** should solve real-world problems. My goal is to **bridge the gap between design and functionality**.
-
+- 🎓 Currently studying **Software Development**.
+- 💼 Founder of [**Youth Innovators Hub**](https://www.linkedin.com/in/niyomugabo-samuel/) — Empowering youth to innovate through technology.
+- ✨ I believe **technology** should solve real-world problems.
 ---
 
 ## 💻 Tech Stack
@@ -21,6 +20,7 @@ I'm passionate about **designing intuitive, user-centered experiences** and buil
 ![React](https://img.shields.io/badge/React-%2320232a.svg?&style=flat&logo=react&logoColor=61DAFB) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 
 ### **Backend Development**:
@@ -48,7 +48,7 @@ A **Payroll and HR Management System** designed for businesses and gig workers i
 - 🚀 **Tech Stack**: React.js, Node.js, MongoDB, Express.js
 - 💡 **Key Features**: Payroll automation, Employee/Contractor Management, Detailed Analytics
 
-### **[Youth Innovators Hub Hackathon](#)**
+### **[Youth Innovators Hub ](#)**
 A platform to engage high school students with coding and innovation. Our beginner-friendly hackathons teach young people how to solve real-world problems using technology.
 
 - 🖥️ **Tech Stack**: Node.js, React.js, Figma (for event branding)
@@ -75,9 +75,9 @@ I’m always growing my skill set and exploring new technologies:
 
 I’d love to collaborate with other developers, designers, and tech enthusiasts. Whether it's a project, mentorship, or just a conversation, let’s connect!
 
-- **LinkedIn**: [Samuel Xanda](https://www.linkedin.com/in/samuelxanda)
-- **Twitter**: [@SamuelXanda](https://twitter.com/SamuelXanda)
-- **Email**: samuelxanda@gmail.com
+- **LinkedIn**: [Samuel Xanda](https://www.linkedin.com/in/niyomugabo-samuel/)
+- **Instagram**: [@SamuelXanda](https://twitter.com/SamuelXanda)
+- **Email**: samuelxanda752@gmail.com
 
 ---
 
