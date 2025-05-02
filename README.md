@@ -76,7 +76,7 @@ I’m always growing my skill set and exploring new technologies:
 I’d love to collaborate with other developers, designers, and tech enthusiasts. Whether it's a project, mentorship, or just a conversation, let’s connect!
 
 - **LinkedIn**: [Samuel Xanda](https://www.linkedin.com/in/niyomugabo-samuel/)
-- **Instagram**: [@SamuelXanda](https://twitter.com/SamuelXanda)
+- **Instagram**: [@SamuelXanda](https://www.instagram.com/niyo_x_samuel/)
 - **Email**: samuelxanda752@gmail.com
 
 ---
