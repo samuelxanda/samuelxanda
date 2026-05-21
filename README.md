@@ -90,3 +90,11 @@ I’d love to collaborate with other developers, designers, and tech enthusiasts
 ## 💬 Get In Touch
 
 Feel free to reach out if you have an idea, need help, or just want to chat about tech. Let’s build the future, together!
+
+
+
+[![committers.top badge](https://user-badge.committers.top/rwanda/samuelxanda.svg)](https://committers.top/rwanda)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelxanda&theme=github_dark" width="100%"/>
+</div>
