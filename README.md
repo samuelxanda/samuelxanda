@@ -7,26 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+tools+that+People+Need;TypeScript+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Node.js;Always+shipping%2C+always+learning" alt="Typing animation" />
 
 <br><br>
-<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
-<div align="center">
-
-## 🏅 GitHub achievements
-
-<a href="https://github.com/samuelxanda?tab=achievements">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="80" alt="Pull Shark"/>
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="80" alt="YOLO"/>
-<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="80" alt="Quickdraw"/>
-<img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" height="80" alt="Starstruck"/>
-<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" height="80" alt="Pair Extraordinaire"/>
-</a>
-
-</div> 
-<!-- ═══════════════ BADGES ROW ═══════════════ -->
-<a href="mailto:samuelxanda752@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email"/></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/niyomugabo-samuel/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
-<a href="https://samuelxanda.dev"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7" alt="Portfolio"/></a>
-<img src="https://komarev.com/ghpvc/?username=samuelxanda&style=for-the-badge&color=414868&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 <br>
@@ -44,7 +24,20 @@
 </div>
 
 <br>
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
+<div align="center">
 
+## 🏅 GitHub achievements
+
+<a href="https://github.com/samuelxanda?tab=achievements">
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="80" alt="Pull Shark"/>
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="80" alt="YOLO"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="80" alt="Quickdraw"/>
+<img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" height="80" alt="Starstruck"/>
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" height="80" alt="Pair Extraordinaire"/>
+</a>
+
+</div>  
 <!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelxanda&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&area_color=414868" width="95%" alt="Contribution graph"/>
