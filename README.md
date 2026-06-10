@@ -67,10 +67,20 @@
 <br>
 
 <!-- ═══════════════ TROPHIES ═══════════════ -->
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samuelxanda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="Trophies"/>
-</div>
 
+## 🏅 GitHub achievements
+
+<a href="https://github.com/samuelxanda?tab=achievements">
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="80" alt="Pull Shark"/>
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="80" alt="YOLO"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="80" alt="Quickdraw"/>
+<img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" height="80" alt="Starstruck"/>
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" height="80" alt="Pair Extraordinaire"/>
+</a>
+
+</div>
 <!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/samuelxanda/samuelxanda/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
