@@ -1,44 +1,23 @@
-# Hi, I'm Samuel Xanda 👋
+<div align="center">
 
-**Full-stack developer · building tools for African fintech**
-<!-- ^ Replace this tagline with your actual focus -->
+# Samuel Xanda
 
-📫 samuelxanda752@gmail.com
+**Full-stack developer** — building tools for African fintech
 
----
+[Email](mailto:samuelxanda752@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Portfolio](https://your-site.com)
 
-## 📊 Stats
+<br>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelxanda&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelxanda&theme=github-dark-blue&hide_border=true" alt="Streak stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelxanda&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=4&text_color=8b949e" height="140" alt="Languages" />
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelxanda&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
+<br>
+
+`TypeScript` · `Python` · `React` · `Node.js`
+
+<br>
 
 ---
 
-## 🚀 Featured projects
+<sub>currently building → [**your-best-repo**](https://github.com/samuelxanda/your-best-repo)</sub>
 
-<!-- Replace repo names and descriptions with your actual best repos -->
-
-<p align="left">
-  <a href="https://github.com/samuelxanda/REPO-ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelxanda&repo=REPO-ONE&theme=github_dark&hide_border=true" alt="Repo one" />
-  </a>
-  <a href="https://github.com/samuelxanda/REPO-TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelxanda&repo=REPO-TWO&theme=github_dark&hide_border=true" alt="Repo two" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-<!-- Add/remove badges to match your real stack: https://shields.io -->
+</div>
