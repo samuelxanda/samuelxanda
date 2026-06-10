@@ -10,8 +10,8 @@
 
 <!-- ═══════════════ BADGES ROW ═══════════════ -->
 <a href="mailto:samuelxanda752@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email"/></a>
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
-<a href="https://your-site.com"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/niyomugabo-samuel/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
+<a href="https://samuelxanda.dev"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7" alt="Portfolio"/></a>
 <img src="https://komarev.com/ghpvc/?username=samuelxanda&style=for-the-badge&color=414868&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
