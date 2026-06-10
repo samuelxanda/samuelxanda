@@ -7,7 +7,20 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+tools+that+People+Need;TypeScript+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Node.js;Always+shipping%2C+always+learning" alt="Typing animation" />
 
 <br><br>
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
+<div align="center">
 
+## 🏅 GitHub achievements
+
+<a href="https://github.com/samuelxanda?tab=achievements">
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="80" alt="Pull Shark"/>
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="80" alt="YOLO"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="80" alt="Quickdraw"/>
+<img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" height="80" alt="Starstruck"/>
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" height="80" alt="Pair Extraordinaire"/>
+</a>
+
+</div> 
 <!-- ═══════════════ BADGES ROW ═══════════════ -->
 <a href="mailto:samuelxanda752@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email"/></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/niyomugabo-samuel/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
@@ -49,38 +62,6 @@
 </div>
 
 <br>
-
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-<div align="center">
-
-## 🚀 Featured work
-
-<a href="https://github.com/samuelxanda/REPO-ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelxanda&repo=REPO-ONE&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Repo one"/>
-</a>
-<a href="https://github.com/samuelxanda/REPO-TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelxanda&repo=REPO-TWO&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Repo two"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
-<div align="center">
-
-## 🏅 GitHub achievements
-
-<a href="https://github.com/samuelxanda?tab=achievements">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="80" alt="Pull Shark"/>
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="80" alt="YOLO"/>
-<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="80" alt="Quickdraw"/>
-<img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" height="80" alt="Starstruck"/>
-<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" height="80" alt="Pair Extraordinaire"/>
-</a>
-
-</div>
 <!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/samuelxanda/samuelxanda/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
