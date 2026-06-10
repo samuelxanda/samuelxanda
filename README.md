@@ -51,7 +51,6 @@
 ## ⚡ Tech arsenal
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,nextjs,tailwind,postgres,mongodb,docker,git,figma&perline=6" alt="Tech stack icons"/>
-
 </div>
 
 <br>
