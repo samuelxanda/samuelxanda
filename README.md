@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Samuel%20Xanda&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer&descSize=20&descAlignY=55" width="100%" alt="Header banner" />
 
 <!-- ═══════════════ TYPING TAGLINE ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+tools+for+African+fintech;TypeScript+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Node.js;Always+shipping%2C+always+learning" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+tools+that+People+Need;TypeScript+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Node.js;Always+shipping%2C+always+learning" alt="Typing animation" />
 
 <br><br>
 
